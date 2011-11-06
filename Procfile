@@ -1,1 +1,1 @@
-app: bin/hubot -a twitter
+app: bin/hubot -a irc
