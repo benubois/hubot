@@ -23,6 +23,7 @@
     "wobot": "0.3.0",
     "imap": "0.2.5",
     "flowdock": "0.2.2"
+    "flowdock": "0.9.5"
   },
 
   "main": "./index",
